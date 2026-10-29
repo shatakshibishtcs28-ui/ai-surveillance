@@ -1,0 +1,7 @@
+venv/
+alerts/
+alerts.csv
+zone.json
+*.pt
+*.mp4
+__pycache__/
